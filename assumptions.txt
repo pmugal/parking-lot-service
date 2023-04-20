@@ -1,0 +1,5 @@
+1. parking lot is open for 24 hrs everyday
+2. users are obedient enough to park their vehicles in their allocated spots only
+3. Respective vehicle type is parked in that particular spot type only 
+Ex. Motorcycle is parked in the spots for motorcycles only.
+4. Payment is done in cash against fee on receipt 

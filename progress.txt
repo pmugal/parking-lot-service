@@ -1,0 +1,4 @@
+- fix defect of exitDateTime - done
+- do airport payment model - done
+- establish relationship between Vehicle & ParkingTicket
+- possible defect at line 52, parkinglevelcollectionFactory
